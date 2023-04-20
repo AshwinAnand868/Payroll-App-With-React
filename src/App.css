@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.row-style{
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 40%;
+}
+
+.form {
+  text-align: left;
+  font-size: 20px;
+}
+
+.save-or-update-btn-div {
+    text-align: center;
+}
+
+.save-or-update-btn {
+  margin-top: 40px;
+  width: 40%;
+  padding: 5px !important;
+  font-size: 20px !important;
+  font-weight: normal !important;
+}
+
